@@ -11,7 +11,6 @@ Estimate Enterprise Value and Equity Value using a DCF framework.
 Compare intrinsic value with the current market price.
 
 Tools Used
-
 Microsoft Excel
 Financial Modeling
 DCF Valuation
@@ -19,7 +18,6 @@ CAPM
 Sensitivity Analysis
 
 Key Assumptions
-
 Revenue Growth
 Forecast based on historical trends.
 Supported by store expansion plans.
@@ -34,7 +32,6 @@ Supply chain optimization
 Higher store productivity
 
 Cost of Capital
-
 WACC: 12.45%
 Terminal Growth Rate: 5%
 
@@ -50,7 +47,7 @@ The DCF-derived intrinsic value suggests the stock is trading at a premium to es
 
 Files Included
 
-D-Mart Financial Model.xlsx
-DCF Valuation Sheet
-Assumptions Sheet
-Sensitivity Analysis
+mart.xlsx,
+DCF Valuation Sheet,
+Assumptions Sheet,
+Sensitivity Analysis,
