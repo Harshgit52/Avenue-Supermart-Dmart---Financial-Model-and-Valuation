@@ -17,23 +17,21 @@ DCF Valuation
 CAPM
 Sensitivity Analysis
 
-Key Assumptions
-Revenue Growth
+Key Assumptions - Revenue Growth
 Forecast based on historical trends.
 Supported by store expansion plans.
 Considered GDP growth, GDP per capita growth, and inflation.
 Operating Margins
 
 Gradual improvement due to:
-
 Operating leverage
 Scale efficiencies
 Supply chain optimization
 Higher store productivity
 
-Cost of Capital
-WACC: 12.45%
-Terminal Growth Rate: 5%
+Cost of Capital -
+WACC: 12.45%, 
+Terminal Growth Rate: 4.5%
 
 Sensitivity Analysis
 
@@ -51,3 +49,5 @@ mart.xlsx,
 DCF Valuation Sheet,
 Assumptions Sheet,
 Sensitivity Analysis,
+
+Visualizations - <img width="909" height="249" alt="visuals" src="https://github.com/user-attachments/assets/2150c658-2232-4cbb-a106-726eda05c110" />
